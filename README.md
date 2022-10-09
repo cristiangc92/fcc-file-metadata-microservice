@@ -1,3 +1,14 @@
 # File Metadata Microservice
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+<h3>Crea una aplicación full stack de JavaScript que sea funcionalmente similar a esta: https://file-metadata-microservice.freecodecamp.rocks/.<br><br>
+
+NOTA: Puedes usar el paquete npm multer para gestionar la carga de archivos.</h3>
+
+#
+
+# Tests
+
+✅ Debes proporcionar tu propio proyecto, no la URL de ejemplo.<br>
+✅ Puedes enviar un formulario que incluya una carga de archivo.<br>
+✅ El campo de entrada del archivo de formulario tiene el atributo name establecido a upfile.<br>
+✅ Cuando envíes un archivo, recibirá el name del archivo, type y size en bytes dentro de la respuesta JSON.<br>
